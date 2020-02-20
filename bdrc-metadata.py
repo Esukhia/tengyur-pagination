@@ -25,13 +25,16 @@ def getVolumeMap(RID):
     return volumeMap
 
 def getTitles(RID):
-    # returns a volumeMap as ['name', 'language', 'encoding']
+    # returns a volumeMap as ['name', 'language']
     test = getMetadataDict(RID)
     root = 'work'
     child1 = 'title'
     titles = test[f'w:{root}'][f'w:{child1}']
     # print(titles)
+    
     # populate list
-    titleList = [[titles[x]['#text'], titles[x]['@lang'], titles[x]['@encoding']] for x in range(len(titles))]
+    titleList = [[converter.toUnicode(titles[x]['#text']) if titles[x]['@lang'] == 'tibetan' else titles[x]['#text'], titles[x]['@lang']] for x in range(len(titles))]
 
     return titleList
+
+print(getTitles('W23703'))
