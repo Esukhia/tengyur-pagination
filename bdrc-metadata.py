@@ -12,9 +12,9 @@ def getMetadataDict(RID):
 
     return metadataDict
 
-def getVolumeMap(RID):
+def getVolumeMap(workID):
     # returns a volumeMap as ['imagegroup', volume]
-    test = getMetadataDict(RID)
+    test = getMetadataDict(workID)
     root = 'work'
     child1 = 'volumeMap'
     child2 = 'volume'
@@ -24,9 +24,9 @@ def getVolumeMap(RID):
 
     return volumeMap
 
-def getTitles(RID):
+def getTitles(workID):
     # returns a volumeMap as ['name', 'language']
-    test = getMetadataDict(RID)
+    test = getMetadataDict(workID)
     root = 'work'
     child1 = 'title'
     titles = test[f'w:{root}'][f'w:{child1}']
@@ -37,4 +37,7 @@ def getTitles(RID):
 
     return titleList
 
-print(getTitles('W23703'))
+
+
+# # Test
+print(getVolumeMap('W23703'))
