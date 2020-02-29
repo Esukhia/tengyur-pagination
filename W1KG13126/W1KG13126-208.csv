@@ -2,7 +2,7 @@
 None,None,None,a,2.0,None,None,None,X,-3,0,1.0,གཅིག་,V1KG13126_I1KG13377,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,a,None,None,None,None,X,-4,0,2.0,གཉིས་,V1KG13126_I1KG13377,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,a,None,None,None,None,X,-5,0,3.0,གསུམ་,V1KG13126_I1KG13377,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,4.0,བཞི་,V1KG13126_I1KG13377,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,4.0,བཞི་,V1KG13126_I1KG13377,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,5.0,ལྔ་,V1KG13126_I1KG13377,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,6.0,དྲུག་,V1KG13126_I1KG13377,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,7.0,བདུན་,V1KG13126_I1KG13377,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13377::I1KG133770009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -687,7 +687,7 @@ None,None,None,None,None,342a,གསུམ་བརྒྱ་ ཞེ་གཉི�
 None,None,None,None,None,0a,None,None,X,-4,-1,686.0,དྲུག་བརྒྱ་ གྱ་དྲུག་,V1KG13126_I1KG13378,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,687.0,དྲུག་བརྒྱ་ གྱ་བདུན་,V1KG13126_I1KG13378,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,688.0,དྲུག་བརྒྱ་ གྱ་བརྒྱད་,V1KG13126_I1KG13378,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,689.0,དྲུག་བརྒྱ་ གྱ་དགུ་,V1KG13126_I1KG13378,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,689.0,དྲུག་བརྒྱ་ གྱ་དགུ་,V1KG13126_I1KG13378,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,690.0,དྲུག་བརྒྱ་ དགུ་བཅུ་,V1KG13126_I1KG13378,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,691.0,དྲུག་བརྒྱ་ གོ་གཅིག་,V1KG13126_I1KG13378,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,692.0,དྲུག་བརྒྱ་ གོ་གཉིས་,V1KG13126_I1KG13378,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13378::I1KG133780009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -1490,7 +1490,7 @@ None,None,None,None,None,401a,བཞི་བརྒྱ་ གཅིག་,None,X
 None,None,None,None,None,0a,None,None,X,-4,-1,None,None,V1KG13126_I1KG13379,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,None,None,V1KG13126_I1KG13379,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13379,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13379,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13379,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13379,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13379,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13379,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13379::I1KG133790009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -2293,7 +2293,7 @@ None,None,None,None,None,405a,བཞི་བརྒྱ་ ལྔ་,None,X,4,809
 None,None,None,a,6.0,None,None,None,X,-3,0,None,None,V1KG13126_I1KG13380,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,a,None,None,None,None,X,-4,0,None,None,V1KG13126_I1KG13380,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,a,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13380,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13380,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13380,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13380,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13380,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13380,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13380::I1KG133800009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -2918,7 +2918,7 @@ None,None,None,None,None,312a,གསུམ་བརྒྱ་ བཅུ་གཉ�
 None,None,None,None,None,0a,None,None,X,-4,-1,None,None,V1KG13126_I1KG13381,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,None,None,V1KG13126_I1KG13381,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13381,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13381,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13381,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13381,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13381,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13381,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13381::I1KG133810009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -3509,7 +3509,7 @@ None,None,None,None,None,295a,གཉིས་བརྒྱ་ གོ་ལྔ་,
 None,None,None,None,None,0a,None,None,X,-4,-1,None,None,V1KG13126_I1KG13382,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,None,None,V1KG13126_I1KG13382,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13382,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13382,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13382,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13382,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13382,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13382,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13382::I1KG133820009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -4218,7 +4218,7 @@ None,None,None,None,None,354a,གསུམ་བརྒྱ་ ང་བཞི་,
 None,None,None,None,None,0a,None,None,X,-4,-1,None,None,V1KG13126_I1KG13383,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,None,None,V1KG13126_I1KG13383,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13383,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13383,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13383,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13383,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13383,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13383,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13383::I1KG133830009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -4971,7 +4971,7 @@ None,None,None,None,None,375a,གསུམ་བརྒྱ་ དོན་ལྔ�
 None,None,None,None,None,-1a,None,None,X,-6,-3,None,None,V1KG13126_I1KG13384,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,4.0,None,None,1b,None,None,X,-2,2,None,None,V1KG13126_I1KG13384,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,a,2.0,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13384,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13384,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13384,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13384,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13384,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13384,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13384::I1KG133840009.jpg/250,150,300,1100/full/270/gray.jpg
@@ -5660,7 +5660,7 @@ None,None,None,None,None,344a,གསུམ་བརྒྱ་ ཞེ་བཞི�
 None,None,None,None,None,0a,None,None,X,-4,-1,None,None,V1KG13126_I1KG13385,3.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850003.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,0b,None,None,X,-4,0,None,None,V1KG13126_I1KG13385,4.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850004.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,k,None,None,None,None,X,-5,0,None,None,V1KG13126_I1KG13385,5.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850005.jpg/250,150,300,1100/full/270/gray.jpg
-None,None,None,None,None,1a,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13385,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850006.jpg/250,150,300,1100/full/270/gray.jpg
+None,None,None,None,None,1b,གཅིག་,None,X,-5,1,None,None,V1KG13126_I1KG13385,6.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850006.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,1.0,None,None,2a,གཉིས་,None,X,-4,3,None,None,V1KG13126_I1KG13385,7.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850007.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,2b,None,None,X,-4,4,None,None,V1KG13126_I1KG13385,8.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850008.jpg/250,150,300,1100/full/270/gray.jpg
 None,None,None,None,None,3a,གསུམ་,None,X,-4,5,None,None,V1KG13126_I1KG13385,9.0,https://iiif.bdrc.io/bdr:V1KG13126_I1KG13385::I1KG133850009.jpg/250,150,300,1100/full/270/gray.jpg

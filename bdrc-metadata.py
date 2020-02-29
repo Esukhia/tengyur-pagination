@@ -28,7 +28,7 @@ def getTitles(workID):
     # returns a volumeMap as ['name', 'language']
     test = getMetadataDict(workID)
     root = 'work'
-    child1 = 'title'
+    child1 = 'title'---
     titles = test[f'w:{root}'][f'w:{child1}']
     # print(titles)
     

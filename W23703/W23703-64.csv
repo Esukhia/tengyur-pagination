@@ -1,6 +1,6 @@
 3000.0,7000.0,None,None,None,None,None,None,None,None,None,num,bo,volumeId,imgSeq,imgUrl
 None,None,None,2.0,2.0,None,None,A1: first image to display; B1: last image to display,None,-3,0,1.0,གཅིག་,V23703_I1380,3.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,2.0,གཉིས་,V23703_I1380,4.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,2.0,གཉིས་,V23703_I1380,4.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,A1: first image to display; B1: last image to display,None,-2,3,3.0,གསུམ་,V23703_I1380,5.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,A1: first image to display; B1: last image to display,None,-2,4,4.0,བཞི་,V23703_I1380,6.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,A1: first image to display; B1: last image to display,None,-2,5,5.0,ལྔ་,V23703_I1380,7.0,https://iiif.bdrc.io/bdr:V23703_I1380::13800007.tif/full/max/0/default.png
@@ -1098,7 +1098,7 @@ None,None,None,None,None,273b,None,A1: first image to display; B1: last image to
 None,None,None,None,None,274a,གཉིས་བརྒྱ་ དོན་བཞི་,A1: first image to display; B1: last image to display,None,-2,547,None,None,V23703_I1381,549.0,https://iiif.bdrc.io/bdr:V23703_I1381::13810549.tif/full/max/0/default.png
 None,None,None,None,None,274b,None,A1: first image to display; B1: last image to display,None,-2,548,None,None,V23703_I1381,550.0,https://iiif.bdrc.io/bdr:V23703_I1381::13810550.tif/full/max/0/default.png
 None,None,None,a,None,None,None,A1: first image to display; B1: last image to display,None,-3,0,None,None,V23703_I1382,3.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1382,4.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1382,4.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,A1: first image to display; B1: last image to display,None,-2,3,None,None,V23703_I1382,5.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,A1: first image to display; B1: last image to display,None,-2,4,None,None,V23703_I1382,6.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,A1: first image to display; B1: last image to display,None,-2,5,None,None,V23703_I1382,7.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820007.tif/full/max/0/default.png
@@ -1780,7 +1780,7 @@ None,None,None,None,None,340b,None,A1: first image to display; B1: last image to
 None,None,None,None,None,341a,གསུམ་བརྒྱ་ ཞེ་གཅིག་,A1: first image to display; B1: last image to display,None,-2,681,None,None,V23703_I1382,683.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820683.tif/full/max/0/default.png
 None,None,None,None,None,341b,None,A1: first image to display; B1: last image to display,None,-2,682,None,None,V23703_I1382,684.0,https://iiif.bdrc.io/bdr:V23703_I1382::13820684.tif/full/max/0/default.png
 None,None,None,a,None,None,None,A1: first image to display; B1: last image to display,None,-3,0,None,None,V23703_I1383,3.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1383,4.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1383,4.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,A1: first image to display; B1: last image to display,None,-2,3,None,None,V23703_I1383,5.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,A1: first image to display; B1: last image to display,None,-2,4,None,None,V23703_I1383,6.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,A1: first image to display; B1: last image to display,None,-2,5,None,None,V23703_I1383,7.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830007.tif/full/max/0/default.png
@@ -2360,7 +2360,7 @@ None,None,None,None,None,289b,None,A1: first image to display; B1: last image to
 None,None,None,None,None,290a,གཉིས་བརྒྱ་ དགུ་བཅུ་,A1: first image to display; B1: last image to display,None,-2,579,None,None,V23703_I1383,581.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830581.tif/full/max/0/default.png
 None,None,None,None,None,290b,None,A1: first image to display; B1: last image to display,None,-2,580,None,None,V23703_I1383,582.0,https://iiif.bdrc.io/bdr:V23703_I1383::13830582.tif/full/max/0/default.png
 None,None,None,a,None,None,None,A1: first image to display; B1: last image to display,None,-3,0,None,None,V23703_I1384,3.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1384,4.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,A1: first image to display; B1: last image to display,None,-3,1,None,None,V23703_I1384,4.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,A1: first image to display; B1: last image to display,None,-2,3,None,None,V23703_I1384,5.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,A1: first image to display; B1: last image to display,None,-2,4,None,None,V23703_I1384,6.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,A1: first image to display; B1: last image to display,None,-2,5,None,None,V23703_I1384,7.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840007.tif/full/max/0/default.png
@@ -3038,7 +3038,7 @@ None,None,None,None,None,338b,None,None,X,-2,676,None,None,V23703_I1384,678.0,ht
 None,None,None,None,None,339a,གསུམ་བརྒྱ་ སོ་དགུ་,None,X,-2,677,None,None,V23703_I1384,679.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840679.tif/full/max/0/default.png
 None,None,None,None,None,339b,None,None,X,-2,678,None,None,V23703_I1384,680.0,https://iiif.bdrc.io/bdr:V23703_I1384::13840680.tif/full/max/0/default.png
 None,None,None,a,None,None,None,None,X,-3,0,None,None,V23703_I1385,3.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,None,X,-3,1,None,None,V23703_I1385,4.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,None,X,-3,1,None,None,V23703_I1385,4.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,None,X,-2,3,None,None,V23703_I1385,5.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,None,X,-2,4,None,None,V23703_I1385,6.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,None,X,-2,5,None,None,V23703_I1385,7.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850007.tif/full/max/0/default.png
@@ -3740,7 +3740,7 @@ None,None,None,None,None,350b,None,None,X,-2,700,None,None,V23703_I1385,702.0,ht
 None,None,None,None,None,351a,གསུམ་བརྒྱ་ ང་གཅིག་,None,X,-2,701,None,None,V23703_I1385,703.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850703.tif/full/max/0/default.png
 None,None,None,None,None,351b,None,None,X,-2,702,None,None,V23703_I1385,704.0,https://iiif.bdrc.io/bdr:V23703_I1385::13850704.tif/full/max/0/default.png
 None,None,None,a,None,None,None,None,X,-3,0,None,None,V23703_I1386,3.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,None,X,-3,1,None,None,V23703_I1386,4.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,None,X,-3,1,None,None,V23703_I1386,4.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,None,X,-2,3,None,None,V23703_I1386,5.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,None,X,-2,4,None,None,V23703_I1386,6.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,None,X,-2,5,None,None,V23703_I1386,7.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860007.tif/full/max/0/default.png
@@ -4310,7 +4310,7 @@ None,None,None,None,None,284b,None,None,X,-2,568,None,None,V23703_I1386,570.0,ht
 None,None,None,None,None,285a,གཉིས་བརྒྱ་ གྱ་ལྔ་,None,X,-2,569,None,None,V23703_I1386,571.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860571.tif/full/max/0/default.png
 None,None,None,None,None,285b,None,None,X,-2,570,None,None,V23703_I1386,572.0,https://iiif.bdrc.io/bdr:V23703_I1386::13860572.tif/full/max/0/default.png
 None,None,None,a,None,None,None,None,X,-3,0,None,None,V23703_I1387,3.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,None,X,-3,1,None,None,V23703_I1387,4.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,None,X,-3,1,None,None,V23703_I1387,4.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,None,X,-2,3,None,None,V23703_I1387,5.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,None,X,-2,4,None,None,V23703_I1387,6.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,None,X,-2,5,None,None,V23703_I1387,7.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870007.tif/full/max/0/default.png
@@ -4970,7 +4970,7 @@ None,None,None,None,None,329b,None,None,X,-2,658,None,None,V23703_I1387,660.0,ht
 None,None,None,None,None,330a,གསུམ་བརྒྱ་ སུམ་བཅུ་,None,X,-2,659,None,None,V23703_I1387,661.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870661.tif/full/max/0/default.png
 None,None,None,None,None,330b,None,None,X,-2,660,None,None,V23703_I1387,662.0,https://iiif.bdrc.io/bdr:V23703_I1387::13870662.tif/full/max/0/default.png
 None,None,None,a,None,None,None,None,X,-3,0,None,None,V23703_I1388,3.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880003.tif/full/max/0/default.png
-None,None,None,None,None,1a,གཅིག་,None,X,-3,1,None,None,V23703_I1388,4.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880004.tif/full/max/0/default.png
+None,None,None,None,None,1b,གཅིག་,None,X,-3,1,None,None,V23703_I1388,4.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880004.tif/full/max/0/default.png
 None,None,1.0,None,None,2a,གཉིས་,None,X,-2,3,None,None,V23703_I1388,5.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880005.tif/full/max/0/default.png
 None,None,None,None,None,2b,None,None,X,-2,4,None,None,V23703_I1388,6.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880006.tif/full/max/0/default.png
 None,None,None,None,None,3a,གསུམ་,None,X,-2,5,None,None,V23703_I1388,7.0,https://iiif.bdrc.io/bdr:V23703_I1388::13880007.tif/full/max/0/default.png
